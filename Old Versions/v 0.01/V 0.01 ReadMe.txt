@@ -1,0 +1,13 @@
+V0.0.1
+
+A very basic version of the game that shows it can be done.
+
+Only free for all hide and seek in this version, and this one is just before I added the doors.
+
+Features:
+Multiplayer lobby
+Bad guys can kill other bad guys
+AI (sort of good)
+Leader Board
+
+No errors or stray warnings in this build
