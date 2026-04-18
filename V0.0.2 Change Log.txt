@@ -3,3 +3,4 @@ V0.0.2
 Added:
 Opening and closing doors, this works with both AI and Players. This is a localised feature; it's not networked
 Smoke effect when changing from ghost and from NPC
+Added some quality of life features like showing the player they can attack and walls to add more leeway with bad guys being exposed 
